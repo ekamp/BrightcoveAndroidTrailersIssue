@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/erikkamp/Downloads/SampleBrightCove/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/erikkamp/Downloads/SampleBrightCove/app/build/intermediates/pre-dexed/debug/classes-181b10e39c71550aad75d61d86d62252bffb9f4a.jar" />
+    </item>
+    <item
+        jar="/Users/erikkamp/Downloads/SampleBrightCove/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/erikkamp/Downloads/SampleBrightCove/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7109169e603759c2547181ffdc5fceef1358c1b0.jar" />
+    </item>
+    <item
+        jar="/Users/erikkamp/Documents/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/erikkamp/Downloads/SampleBrightCove/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-2ad4dad8e79c2d2232dffdad19e0836b7914ce52.jar" />
+    </item>
+    <item
+        jar="/Users/erikkamp/Downloads/SampleBrightCove/app/build/intermediates/exploded-aar/com.brightcove.player/android-sdk/4.3.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a8aba8c4d43718324033df49f874c7b90c25458e">
+        <dex dex="/Users/erikkamp/Downloads/SampleBrightCove/app/build/intermediates/pre-dexed/debug/classes-1962a2aff00519ea94056cc05838efd42118c2fa.jar" />
+    </item>
+    <item
+        jar="/Users/erikkamp/Downloads/SampleBrightCove/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/erikkamp/Downloads/SampleBrightCove/app/build/intermediates/pre-dexed/debug/classes-600b0383bfe8118e99646f3927eebbec89b738a1.jar" />
+    </item>
+
+</items>
